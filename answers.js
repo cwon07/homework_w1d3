@@ -56,3 +56,22 @@ else {
 // for (let upperName of ninjaTurtles) {
 //     console.log(upperName.toUpperCase());
 // }
+
+///////////////////////////////
+// Methods, Revisited
+////////////////////////////////
+
+// const favMovies = ['Jaws', 'The Fellowship of the Ring', 'Howl\'s Moving Castle', 'Django Unchained', 'Cloud Atlas', 'The Usual Suspects', 'Toy Story', 'Conan the Barbarian', 'Titanic', 'Harry Potter', 'Fried Green Tomatoes', 'Volver', 'Oculus', 'Seven', 'Black Panther', 'Harry Potter', 'Imitation of Life', 'Snatch', 'Fast and Furious'];
+
+    //console.log(favMovies.indexOf('Titanic')) // 8
+    //favMovies.sort();
+    //favMovies.pop();
+    //favMovies.push("Guardians of the Galaxy")
+    //favMovies.reverse()
+    //favMovies.unshift() // stayed the same because we didn't specify an elemented to be added to the beginning of the array
+    //favMovies.splice(3, 1, "Avatar")
+    // let middleIndex = Math.floor((0 + favMovies.length -1) / 2);
+    // console.log(favMovies[middleIndex]) // Harry Potter
+    // console.log(favMovies.indexOf('Harry Potter')) // 9
+    // const favMoviesTwo = favMovies.slice(9,18);
+    // console.log(favMoviesTwo) 
