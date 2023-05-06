@@ -87,3 +87,20 @@ const whereIsWaldo = [["Timmy", "Frank"], "Eggbert",
 // Remove Eggburt
 whereIsWaldo.splice(0,0,"Eggbert");
 console.log(whereIsWaldo)
+
+////////////////////////////////
+//  Excited Kitten
+////////////////////////////////
+
+// let catPhrases = ["...human...why you taking pictures of me?...",
+// "...the catnip made me do it...",
+// "...why does the red dot always get away..."]
+
+// for (let i = 0; i < 20; i++) {
+//     let random = Math.floor(Math.random() * (2-0))
+//     if ( i % 2 === 0) {
+//         console.log(catPhrases[random])
+//     } else {
+//         console.log(`${i} Love me, pet me! HSSSSSS!`)
+//     }
+// }
