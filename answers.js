@@ -75,3 +75,15 @@ else {
     // console.log(favMovies.indexOf('Harry Potter')) // 9
     // const favMoviesTwo = favMovies.slice(9,18);
     // console.log(favMoviesTwo) 
+
+    ////////////////////////////////
+// Where is Waldo
+////////////////////////////////
+
+const whereIsWaldo = [["Timmy", "Frank"], "Eggbert",
+["Lucinda", "Jacc", "Neff", "Snoop"],
+["Petunia", ["Baked Goods", "Waldo"]]];
+
+// Remove Eggburt
+whereIsWaldo.splice(0,0,"Eggbert");
+console.log(whereIsWaldo)
