@@ -104,3 +104,16 @@ console.log(whereIsWaldo)
 //         console.log(`${i} Love me, pet me! HSSSSSS!`)
 //     }
 // }
+
+////////////////////////////////
+//  Find the Median
+////////////////////////////////
+
+// const nums = [14,11,16,15,13,16,15,17,19,11,12,14,19,11,15,17,11,18,12,17,12,71,18,15,12];
+// nums.sort((a , b) => a - b)
+// let median;
+// if(nums.length % 2 != 0) {
+//     let middleIndex = Math.floor(nums.length/2)
+//     median = nums[middleIndex]
+// } 
+// console.log(median)
