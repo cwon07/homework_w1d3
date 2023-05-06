@@ -47,3 +47,12 @@ else {
 // wolfy.splice(3,3,"Gatham City")
 // dart.push("Hawkins")
 // wolfy.splice(wolfy.indexOf("Wolfy"), 1, "Gameboy")
+
+////////////////////////////////
+// Yell at the Ninja Turtles
+////////////////////////////////
+
+// const ninjaTurtles = ["Donatello", "Leonardo", "Raphael", "Michaelangelo"]
+// for (let upperName of ninjaTurtles) {
+//     console.log(upperName.toUpperCase());
+// }
